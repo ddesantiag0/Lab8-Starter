@@ -1,7 +1,7 @@
 # Lab 8 Starter
 
 ## Names of Lab Partner(s)
-- David de Santiago
+- David De Santiago
 
 ## Deployed GitHub Pages URL
 - [Lab 8 Starter on GitHub Pages](https://ddesantiag0.github.io/Lab8-Starter/)
