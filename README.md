@@ -3,7 +3,7 @@
 ## Names of Lab Partner(s)
 - David De Santiago
 
-## Deployed GitHub Pages URL
+## GitHub Pages URL
 - [Lab 8 Starter](https://ddesantiag0.github.io/Lab8-Starter/)
 
 ## Short Paragraph about Graceful Degradation and Service Workers
